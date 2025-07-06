@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Viaje prueba 9 Etapas",
+    "destino_principal": "Stelvio",
+    "kilometros_totales": 3091,
+    "numero_etapas": 9,
+    "presupuesto_total": 7691.9,
+    "presupuesto_persona": 3845.95,
+    "pasajero": true
+  }
+}

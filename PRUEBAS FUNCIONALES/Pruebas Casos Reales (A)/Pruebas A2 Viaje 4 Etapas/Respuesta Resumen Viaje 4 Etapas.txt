@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Viaje prueba 4 Etapas",
+      "destino_principal": "Sierra Nevada",
+      "kilometros_totales": 897,
+      "kilometros_media_etapa": 224.25,
+      "numero_etapas": 4,
+      "pasajero": false,
+      "fecha_inicio": "20/05/2025",
+      "fecha_fin": "23/05/2025",
+      "precio_combustible": 1.6,
+      "consumo_medio_moto": 5.7,
+      "litros_combustible": 51.13,
+      "velocidad_media_total": 72,
+      "tiempo_total_desplazamiento": "13:19",
+      "tiempo_desplazamiento_dia": "03:19"
+    },
+    "resumen_gastos": {
+      "combustible": 81.81,
+      "alojamiento": 306.5,
+      "alimentacion": 356,
+      "aparcamiento": 20.5,
+      "peaje": 0,
+      "actividades": 70,
+      "transporte": 0,
+      "extra": 81,
+      "compras": 60,
+      "acampada": 0,
+      "tasas": 0,
+      "seguros": 50,
+      "equipamiento_moteros": 575,
+      "equipamiento_moto": 50,
+      "mantenimiento": 170,
+      "total_general": 1820.81,
+      "presupuesto_persona": 1820.81
+    }
+  }
+}

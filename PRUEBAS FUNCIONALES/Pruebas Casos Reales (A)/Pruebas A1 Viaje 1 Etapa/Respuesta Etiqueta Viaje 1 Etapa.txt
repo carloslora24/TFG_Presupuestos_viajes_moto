@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Viaje prueba 1 etapa",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 196.22,
+    "presupuesto_persona": 196.22,
+    "pasajero": false
+  }
+}

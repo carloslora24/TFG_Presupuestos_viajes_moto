@@ -1,0 +1,366 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Viaje prueba 9 Etapas",
+      "destino_principal": "Stelvio",
+      "kilometros_totales": 3091,
+      "kilometros_media_etapa": 343.44,
+      "numero_etapas": 9,
+      "fecha_inicio": "20/05/2025",
+      "fecha_fin": "28/05/2025",
+      "pasajero": true,
+      "precio_combustible": 1.6,
+      "consumo_medio_moto": 5.7,
+      "litros_combustible": 176.19,
+      "total_combustible": 281.9,
+      "velocidad_media_total": 84,
+      "tiempo_total_desplazamiento": "36:07",
+      "tiempo_desplazamiento_dia": "04:00"
+    },
+    "etapas": [
+      {
+        "informacion_etapa": {
+          "numero_etapa": 1,
+          "origen": "MURCIA",
+          "destino": "BARCELONA",
+          "kilometros": 600,
+          "fecha": "20/05/2025",
+          "velocidad_media": 110,
+          "tiempo_desplazamiento_etapa": "05:27"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 351.72,
+          "combustible_etapa": 54.72,
+          "litros_etapa": 34.2,
+          "alojamiento": 150,
+          "total_alimentacion": 95,
+          "alimentacion": {
+            "alimentacion_desayuno": 0,
+            "alimentacion_almuerzo": 10,
+            "alimentacion_comida": 30,
+            "alimentacion_merienda": 10,
+            "alimentacion_cena": 35,
+            "alimentacion_otros": 10
+          },
+          "aparcamiento": 12,
+          "peaje": 0,
+          "actividades": 30,
+          "transporte": 0,
+          "extra": 10
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 2,
+          "origen": "BARCELONA",
+          "destino": "GÉNOVA",
+          "kilometros": 0,
+          "fecha": "21/05/2025",
+          "velocidad_media": 50,
+          "tiempo_desplazamiento_etapa": "00:00"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 970,
+          "combustible_etapa": 0,
+          "litros_etapa": 0,
+          "alojamiento": 225,
+          "total_alimentacion": 150,
+          "alimentacion": {
+            "alimentacion_desayuno": 20,
+            "alimentacion_almuerzo": 10,
+            "alimentacion_comida": 40,
+            "alimentacion_merienda": 20,
+            "alimentacion_cena": 40,
+            "alimentacion_otros": 20
+          },
+          "aparcamiento": 0,
+          "peaje": 0,
+          "actividades": 0,
+          "transporte": 550,
+          "extra": 45
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 3,
+          "origen": "GÉNOVA",
+          "destino": "BORMIO",
+          "kilometros": 350,
+          "fecha": "22/05/2025",
+          "velocidad_media": 70,
+          "tiempo_desplazamiento_etapa": "05:00"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 520.92,
+          "combustible_etapa": 31.92,
+          "litros_etapa": 19.95,
+          "alojamiento": 225,
+          "total_alimentacion": 205,
+          "alimentacion": {
+            "alimentacion_desayuno": 20,
+            "alimentacion_almuerzo": 25,
+            "alimentacion_comida": 60,
+            "alimentacion_merienda": 20,
+            "alimentacion_cena": 60,
+            "alimentacion_otros": 20
+          },
+          "aparcamiento": 15,
+          "peaje": 24,
+          "actividades": 0,
+          "transporte": 0,
+          "extra": 20
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 4,
+          "origen": "BORMIO",
+          "destino": "BELLINZONA",
+          "kilometros": 307,
+          "fecha": "23/05/2025",
+          "velocidad_media": 50,
+          "tiempo_desplazamiento_etapa": "06:08"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 488,
+          "combustible_etapa": 28,
+          "litros_etapa": 17.5,
+          "alojamiento": 250,
+          "total_alimentacion": 145,
+          "alimentacion": {
+            "alimentacion_desayuno": 0,
+            "alimentacion_almuerzo": 20,
+            "alimentacion_comida": 65,
+            "alimentacion_merienda": 20,
+            "alimentacion_cena": 40,
+            "alimentacion_otros": 0
+          },
+          "aparcamiento": 20,
+          "peaje": 0,
+          "actividades": 30,
+          "transporte": 0,
+          "extra": 15
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 5,
+          "origen": "BELLINZONA",
+          "destino": "INTERLAKEN",
+          "kilometros": 243,
+          "fecha": "24/05/2025",
+          "velocidad_media": 50,
+          "tiempo_desplazamiento_etapa": "04:51"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 732.16,
+          "combustible_etapa": 22.16,
+          "litros_etapa": 13.85,
+          "alojamiento": 275,
+          "total_alimentacion": 265,
+          "alimentacion": {
+            "alimentacion_desayuno": 25,
+            "alimentacion_almuerzo": 30,
+            "alimentacion_comida": 80,
+            "alimentacion_merienda": 30,
+            "alimentacion_cena": 70,
+            "alimentacion_otros": 30
+          },
+          "aparcamiento": 25,
+          "peaje": 0,
+          "actividades": 100,
+          "transporte": 0,
+          "extra": 45
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 6,
+          "origen": "INTERLAKEN",
+          "destino": "GINEBRA",
+          "kilometros": 220,
+          "fecha": "25/05/2025",
+          "velocidad_media": 100,
+          "tiempo_desplazamiento_etapa": "02:12"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 915.06,
+          "combustible_etapa": 20.06,
+          "litros_etapa": 12.54,
+          "alojamiento": 325,
+          "total_alimentacion": 290,
+          "alimentacion": {
+            "alimentacion_desayuno": 35,
+            "alimentacion_almuerzo": 30,
+            "alimentacion_comida": 85,
+            "alimentacion_merienda": 35,
+            "alimentacion_cena": 70,
+            "alimentacion_otros": 35
+          },
+          "aparcamiento": 30,
+          "peaje": 0,
+          "actividades": 200,
+          "transporte": 0,
+          "extra": 50
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 7,
+          "origen": "GINEBRA",
+          "destino": "NIMES",
+          "kilometros": 402,
+          "fecha": "26/05/2025",
+          "velocidad_media": 110,
+          "tiempo_desplazamiento_etapa": "03:39"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 476.66,
+          "combustible_etapa": 36.66,
+          "litros_etapa": 22.91,
+          "alojamiento": 200,
+          "total_alimentacion": 170,
+          "alimentacion": {
+            "alimentacion_desayuno": 25,
+            "alimentacion_almuerzo": 20,
+            "alimentacion_comida": 50,
+            "alimentacion_merienda": 20,
+            "alimentacion_cena": 40,
+            "alimentacion_otros": 15
+          },
+          "aparcamiento": 15,
+          "peaje": 25,
+          "actividades": 20,
+          "transporte": 0,
+          "extra": 10
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 8,
+          "origen": "NIMES",
+          "destino": "TARRAGONA",
+          "kilometros": 484,
+          "fecha": "27/05/2025",
+          "velocidad_media": 110,
+          "tiempo_desplazamiento_etapa": "04:24"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 348.14,
+          "combustible_etapa": 44.14,
+          "litros_etapa": 27.59,
+          "alojamiento": 45,
+          "total_alimentacion": 162,
+          "alimentacion": {
+            "alimentacion_desayuno": 22,
+            "alimentacion_almuerzo": 20,
+            "alimentacion_comida": 50,
+            "alimentacion_merienda": 15,
+            "alimentacion_cena": 45,
+            "alimentacion_otros": 10
+          },
+          "aparcamiento": 12,
+          "peaje": 15,
+          "actividades": 50,
+          "transporte": 0,
+          "extra": 20
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 9,
+          "origen": "TARRAGONA",
+          "destino": "MURCIA",
+          "kilometros": 485,
+          "fecha": "28/05/2025",
+          "velocidad_media": 110,
+          "tiempo_desplazamiento_etapa": "04:24"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 129.22,
+          "combustible_etapa": 44.22,
+          "litros_etapa": 27.64,
+          "alojamiento": 0,
+          "total_alimentacion": 85,
+          "alimentacion": {
+            "alimentacion_desayuno": 10,
+            "alimentacion_almuerzo": 15,
+            "alimentacion_comida": 30,
+            "alimentacion_merienda": 15,
+            "alimentacion_cena": 0,
+            "alimentacion_otros": 15
+          },
+          "aparcamiento": 0,
+          "peaje": 0,
+          "actividades": 0,
+          "transporte": 0,
+          "extra": 0
+        }
+      }
+    ],
+    "otros_gastos": {
+      "total_otros_gastos": 520,
+      "compras": 120,
+      "acampada": 40,
+      "tasas": {
+        "tasas_visados": 34,
+        "tasas_pases": 41,
+        "tasas_otros": 15
+      },
+      "seguros": {
+        "seguro_moto": 120,
+        "seguro_viaje": 65,
+        "seguro_salud": 50,
+        "seguro_otros": 35
+      }
+    },
+    "equipamiento": {
+      "moteros": {
+        "total_equipamiento_moteros": 1295,
+        "casco": 0,
+        "guantes_invierno": 100,
+        "guantes_verano": 0,
+        "botas_invierno": 150,
+        "botas_verano": 0,
+        "chaqueta_invierno": 325,
+        "chaqueta_verano": 0,
+        "pantalon_invierno": 150,
+        "pantalon_verano": 0,
+        "ropa_termica": 35,
+        "traje_agua": 25,
+        "airbag": 350,
+        "protecciones_adicionales": 50,
+        "kit_primeros_auxilios": 20,
+        "intercomunicadores": 60,
+        "equipacion_otros": 30
+      },
+      "moto": {
+        "total_equipamiento_moto": 165,
+        "equipacion_navegador": 35,
+        "equipacion_equipaje": 40,
+        "equipacion_funda": 15,
+        "equipacion_extintor": 35,
+        "equipacion_otros": 40
+      }
+    },
+    "mantenimiento": {
+      "total_mantenimiento": 780,
+      "mto_pinchazos": 20,
+      "mto_herramientas": 35,
+      "mto_compresor": 45,
+      "mto_arrancador": 0,
+      "mto_rev_previa": 150,
+      "mto_talleres": 0,
+      "mto_neumaticos": 400,
+      "mto_frenos": 50,
+      "mto_transmision": 10,
+      "mto_otros": 20,
+      "mto_rev_post": 50
+    },
+    "totales": {
+      "total_general": 7691.9,
+      "presupuesto_persona": 3845.95
+    }
+  }
+}

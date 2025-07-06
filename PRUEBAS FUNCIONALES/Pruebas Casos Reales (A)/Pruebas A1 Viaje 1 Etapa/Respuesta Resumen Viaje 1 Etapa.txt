@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Viaje prueba 1 etapa",
+      "destino_principal": "Velefique",
+      "kilometros_totales": 248,
+      "kilometros_media_etapa": 248,
+      "numero_etapas": 1,
+      "pasajero": false,
+      "fecha_inicio": "19/05/2025",
+      "fecha_fin": "19/05/2025",
+      "precio_combustible": 1.55,
+      "consumo_medio_moto": 5,
+      "litros_combustible": 12.4,
+      "velocidad_media_total": 70,
+      "tiempo_total_desplazamiento": "03:32",
+      "tiempo_desplazamiento_dia": "03:32"
+    },
+    "resumen_gastos": {
+      "combustible": 19.22,
+      "alojamiento": 0,
+      "alimentacion": 62,
+      "aparcamiento": 5,
+      "peaje": 0,
+      "actividades": 0,
+      "transporte": 0,
+      "extra": 0,
+      "compras": 25,
+      "acampada": 0,
+      "tasas": 0,
+      "seguros": 0,
+      "equipamiento_moteros": 30,
+      "equipamiento_moto": 35,
+      "mantenimiento": 20,
+      "total_general": 196.22,
+      "presupuesto_persona": 196.22
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "status": "error",
+  "data": "Formato de fecha inválido: 2025/05/20. Debe ser DD/MM/AAAA"
+}

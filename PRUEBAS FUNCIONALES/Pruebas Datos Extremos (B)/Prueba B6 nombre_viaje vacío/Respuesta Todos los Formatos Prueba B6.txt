@@ -1,0 +1,4 @@
+{
+  "status": "error",
+  "data": "Error: El texto no puede estar vacío"
+}

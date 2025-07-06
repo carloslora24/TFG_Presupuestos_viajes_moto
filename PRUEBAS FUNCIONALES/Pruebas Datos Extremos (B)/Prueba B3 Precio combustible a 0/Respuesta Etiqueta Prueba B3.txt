@@ -1,0 +1,12 @@
+
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Prueba B3 conceptos y combustible a 0",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 0,
+    "presupuesto_persona": 0,
+    "pasajero": true
+  }
+}

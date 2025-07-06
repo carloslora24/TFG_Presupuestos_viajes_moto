@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Prueba B2 conceptos a presupuestar a 0 excepto combustible",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 20.46,
+    "presupuesto_persona": 10.23,
+    "pasajero": true
+  }
+}

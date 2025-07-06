@@ -1,0 +1,211 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Viaje prueba 4 Etapas",
+      "destino_principal": "Sierra Nevada",
+      "kilometros_totales": 897,
+      "kilometros_media_etapa": 224.25,
+      "numero_etapas": 4,
+      "fecha_inicio": "20/05/2025",
+      "fecha_fin": "23/05/2025",
+      "pasajero": false,
+      "precio_combustible": 1.6,
+      "consumo_medio_moto": 5.7,
+      "litros_combustible": 51.13,
+      "total_combustible": 81.81,
+      "velocidad_media_total": 72,
+      "tiempo_total_desplazamiento": "13:19",
+      "tiempo_desplazamiento_dia": "03:19"
+    },
+    "etapas": [
+      {
+        "informacion_etapa": {
+          "numero_etapa": 1,
+          "origen": "Murcia",
+          "destino": "Roquetas de Mar",
+          "kilometros": 241,
+          "fecha": "20/05/2025",
+          "velocidad_media": 90,
+          "tiempo_desplazamiento_etapa": "02:40"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 320.98,
+          "combustible_etapa": 21.98,
+          "litros_etapa": 13.74,
+          "alojamiento": 127.5,
+          "total_alimentacion": 115,
+          "alimentacion": {
+            "alimentacion_desayuno": 0,
+            "alimentacion_almuerzo": 15,
+            "alimentacion_comida": 35,
+            "alimentacion_merienda": 10,
+            "alimentacion_cena": 30,
+            "alimentacion_otros": 25
+          },
+          "aparcamiento": 10.5,
+          "peaje": 0,
+          "actividades": 0,
+          "transporte": 0,
+          "extra": 46
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 2,
+          "origen": "Roquetas de Mar",
+          "destino": "Trevélez",
+          "kilometros": 206,
+          "fecha": "21/05/2025",
+          "velocidad_media": 40,
+          "tiempo_desplazamiento_etapa": "05:09"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 241.78,
+          "combustible_etapa": 18.78,
+          "litros_etapa": 11.74,
+          "alojamiento": 94,
+          "total_alimentacion": 89,
+          "alimentacion": {
+            "alimentacion_desayuno": 0,
+            "alimentacion_almuerzo": 15,
+            "alimentacion_comida": 30,
+            "alimentacion_merienda": 7,
+            "alimentacion_cena": 25,
+            "alimentacion_otros": 12
+          },
+          "aparcamiento": 0,
+          "peaje": 0,
+          "actividades": 30,
+          "transporte": 0,
+          "extra": 10
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 3,
+          "origen": "Trevélez",
+          "destino": "Granada",
+          "kilometros": 150,
+          "fecha": "22/05/2025",
+          "velocidad_media": 60,
+          "tiempo_desplazamiento_etapa": "02:30"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 295.68,
+          "combustible_etapa": 13.68,
+          "litros_etapa": 8.55,
+          "alojamiento": 85,
+          "total_alimentacion": 122,
+          "alimentacion": {
+            "alimentacion_desayuno": 12,
+            "alimentacion_almuerzo": 10,
+            "alimentacion_comida": 20,
+            "alimentacion_merienda": 20,
+            "alimentacion_cena": 40,
+            "alimentacion_otros": 20
+          },
+          "aparcamiento": 10,
+          "peaje": 0,
+          "actividades": 40,
+          "transporte": 0,
+          "extra": 25
+        }
+      },
+      {
+        "informacion_etapa": {
+          "numero_etapa": 4,
+          "origen": "Granada",
+          "destino": "Murcia",
+          "kilometros": 300,
+          "fecha": "23/05/2025",
+          "velocidad_media": 100,
+          "tiempo_desplazamiento_etapa": "03:00"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 57.36,
+          "combustible_etapa": 27.36,
+          "litros_etapa": 17.1,
+          "alojamiento": 0,
+          "total_alimentacion": 30,
+          "alimentacion": {
+            "alimentacion_desayuno": 10,
+            "alimentacion_almuerzo": 15,
+            "alimentacion_comida": 0,
+            "alimentacion_merienda": 0,
+            "alimentacion_cena": 0,
+            "alimentacion_otros": 5
+          },
+          "aparcamiento": 0,
+          "peaje": 0,
+          "actividades": 0,
+          "transporte": 0,
+          "extra": 0
+        }
+      }
+    ],
+    "otros_gastos": {
+      "total_otros_gastos": 110,
+      "compras": 60,
+      "acampada": 0,
+      "tasas": {
+        "tasas_visados": 0,
+        "tasas_pases": 0,
+        "tasas_otros": 0
+      },
+      "seguros": {
+        "seguro_moto": 0,
+        "seguro_viaje": 50,
+        "seguro_salud": 0,
+        "seguro_otros": 0
+      }
+    },
+    "equipamiento": {
+      "moteros": {
+        "total_equipamiento_moteros": 575,
+        "casco": 0,
+        "guantes_invierno": 0,
+        "guantes_verano": 45,
+        "botas_invierno": 0,
+        "botas_verano": 65,
+        "chaqueta_invierno": 0,
+        "chaqueta_verano": 225,
+        "pantalon_invierno": 0,
+        "pantalon_verano": 190,
+        "ropa_termica": 0,
+        "traje_agua": 0,
+        "airbag": 0,
+        "protecciones_adicionales": 0,
+        "kit_primeros_auxilios": 20,
+        "intercomunicadores": 0,
+        "equipacion_otros": 30
+      },
+      "moto": {
+        "total_equipamiento_moto": 50,
+        "equipacion_navegador": 0,
+        "equipacion_equipaje": 35,
+        "equipacion_funda": 15,
+        "equipacion_extintor": 0,
+        "equipacion_otros": 0
+      }
+    },
+    "mantenimiento": {
+      "total_mantenimiento": 170,
+      "mto_pinchazos": 20,
+      "mto_herramientas": 0,
+      "mto_compresor": 0,
+      "mto_arrancador": 0,
+      "mto_rev_previa": 150,
+      "mto_talleres": 0,
+      "mto_neumaticos": 0,
+      "mto_frenos": 0,
+      "mto_transmision": 0,
+      "mto_otros": 0,
+      "mto_rev_post": 0
+    },
+    "totales": {
+      "total_general": 1820.81,
+      "presupuesto_persona": 1820.81
+    }
+  }
+}

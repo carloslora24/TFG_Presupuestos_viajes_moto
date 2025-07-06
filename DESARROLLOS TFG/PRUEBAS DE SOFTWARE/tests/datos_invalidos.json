@@ -1,0 +1,30 @@
+{
+    "datos_viaje": {
+        "nombre_viaje": "Ruta por los Pirineos",
+        "destino_principal": "Andorra",
+        "pasajero": "Sí",
+        "precio_combustible": -1.85,
+        "consumo_medio_moto": "5.2"
+    },
+    "etapas": [
+        {
+            "fecha": "01/07/2024",
+            "origen_etapa": "Barcelona",
+            "destino_etapa": "La Seu d'Urgell",
+            "kms_etapa": "150",
+            "velocidad_media_etapa": 85,
+            "alojamiento_etapa": 80.00,
+            "alimentacion_etapa": {
+                "alimentacion_desayuno": "10.00",
+                "alimentacion_almuerzo": 15.00,
+                "alimentacion_comida": 20.00,
+                "alimentacion_merienda": 8.00,
+                "alimentacion_cena": 25.00,
+                "alimentacion_otros": 5.00
+            }
+        }
+    ],
+    "otros_gastos": {
+        "gastos_compras": 200.00
+    }
+} 

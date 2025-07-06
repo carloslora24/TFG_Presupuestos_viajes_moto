@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Prueba B9 Número como cadena",
+      "destino_principal": "Velefique",
+      "kilometros_totales": 248,
+      "kilometros_media_etapa": 248,
+      "numero_etapas": 1,
+      "pasajero": true,
+      "fecha_inicio": "20/05/2025",
+      "fecha_fin": "20/05/2025",
+      "precio_combustible": 1.5,
+      "consumo_medio_moto": 5,
+      "litros_combustible": 12.4,
+      "velocidad_media_total": 70,
+      "tiempo_total_desplazamiento": "03:32",
+      "tiempo_desplazamiento_dia": "03:32"
+    },
+    "resumen_gastos": {
+      "combustible": 18.6,
+      "alojamiento": 75,
+      "alimentacion": 61,
+      "aparcamiento": 5,
+      "peaje": 10,
+      "actividades": 10,
+      "transporte": 10,
+      "extra": 10,
+      "compras": 25,
+      "acampada": 10,
+      "tasas": 30,
+      "seguros": 40,
+      "equipamiento_moteros": 2730,
+      "equipamiento_moto": 365,
+      "mantenimiento": 725,
+      "total_general": 4124.6,
+      "presupuesto_persona": 2062.3
+    }
+  }
+}

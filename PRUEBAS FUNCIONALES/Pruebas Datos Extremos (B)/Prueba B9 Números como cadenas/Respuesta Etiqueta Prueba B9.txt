@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Prueba B9 Número como cadena",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 4124.6,
+    "presupuesto_persona": 2062.3,
+    "pasajero": true
+  }
+}

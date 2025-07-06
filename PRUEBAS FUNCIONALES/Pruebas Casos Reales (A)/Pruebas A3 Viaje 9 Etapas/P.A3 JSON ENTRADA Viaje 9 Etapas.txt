@@ -1,0 +1,253 @@
+{
+  "datos_viaje": {
+    "nombre_viaje": "Viaje prueba 9 Etapas",
+    "destino_principal": "Stelvio",
+    "pasajero": true,
+    "precio_combustible": 1.6,
+    "consumo_medio_moto": 5.7
+  },
+  "etapas": [
+    {
+      "fecha": "20/05/2025",
+      "origen_etapa": "MURCIA",
+      "destino_etapa": "BARCELONA",
+      "kms_etapa": 600,
+      "velocidad_media_etapa": 110,
+      "alojamiento_etapa": 150,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 0,
+        "alimentacion_almuerzo": 10,
+        "alimentacion_comida": 30,
+        "alimentacion_merienda": 10,
+        "alimentacion_cena": 35,
+        "alimentacion_otros": 10
+      },
+      "aparcamiento_etapa": 12,
+      "peaje_etapa": 0,
+      "actividad_etapa": 30,
+      "transporte_etapa": 0,
+      "extra_etapa": 10
+    },
+    {
+      "fecha": "21/05/2025",
+      "origen_etapa": "BARCELONA",
+      "destino_etapa": "GÉNOVA",
+      "kms_etapa": 0,
+      "velocidad_media_etapa": 50,
+      "alojamiento_etapa": 225,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 20,
+        "alimentacion_almuerzo": 10,
+        "alimentacion_comida": 40,
+        "alimentacion_merienda": 20,
+        "alimentacion_cena": 40,
+        "alimentacion_otros": 20
+      },
+      "aparcamiento_etapa": 0,
+      "peaje_etapa": 0,
+      "actividad_etapa": 0,
+      "transporte_etapa": 550,
+      "extra_etapa": 45
+    },
+    {
+      "fecha": "22/05/2025",
+      "origen_etapa": "GÉNOVA",
+      "destino_etapa": "BORMIO",
+      "kms_etapa": 350,
+      "velocidad_media_etapa": 70,
+      "alojamiento_etapa": 225,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 20,
+        "alimentacion_almuerzo": 25,
+        "alimentacion_comida": 60,
+        "alimentacion_merienda": 20,
+        "alimentacion_cena": 60,
+        "alimentacion_otros": 20
+      },
+      "aparcamiento_etapa": 15,
+      "peaje_etapa": 24,
+      "actividad_etapa": 0,
+      "transporte_etapa": 0,
+      "extra_etapa": 20
+    },
+    {
+      "fecha": "23/05/2025",
+      "origen_etapa": "BORMIO",
+      "destino_etapa": "BELLINZONA",
+      "kms_etapa": 307,
+      "velocidad_media_etapa": 50,
+      "alojamiento_etapa": 250,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 0,
+        "alimentacion_almuerzo": 20,
+        "alimentacion_comida": 65,
+        "alimentacion_merienda": 20,
+        "alimentacion_cena": 40,
+        "alimentacion_otros": 0
+      },
+      "aparcamiento_etapa": 20,
+      "peaje_etapa": 0,
+      "actividad_etapa": 30,
+      "transporte_etapa": 0,
+      "extra_etapa": 15
+    },
+    {
+      "fecha": "24/05/2025",
+      "origen_etapa": "BELLINZONA",
+      "destino_etapa": "INTERLAKEN",
+      "kms_etapa": 243,
+      "velocidad_media_etapa": 50,
+      "alojamiento_etapa": 275,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 25,
+        "alimentacion_almuerzo": 30,
+        "alimentacion_comida": 80,
+        "alimentacion_merienda": 30,
+        "alimentacion_cena": 70,
+        "alimentacion_otros": 30
+      },
+      "aparcamiento_etapa": 25,
+      "peaje_etapa": 0,
+      "actividad_etapa": 100,
+      "transporte_etapa": 0,
+      "extra_etapa": 45
+    },
+    {
+      "fecha": "25/05/2025",
+      "origen_etapa": "INTERLAKEN",
+      "destino_etapa": "GINEBRA",
+      "kms_etapa": 220,
+      "velocidad_media_etapa": 100,
+      "alojamiento_etapa": 325,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 35,
+        "alimentacion_almuerzo": 30,
+        "alimentacion_comida": 85,
+        "alimentacion_merienda": 35,
+        "alimentacion_cena": 70,
+        "alimentacion_otros": 35
+      },
+      "aparcamiento_etapa": 30,
+      "peaje_etapa": 0,
+      "actividad_etapa": 200,
+      "transporte_etapa": 0,
+      "extra_etapa": 50
+    },
+    {
+      "fecha": "26/05/2025",
+      "origen_etapa": "GINEBRA",
+      "destino_etapa": "NIMES",
+      "kms_etapa": 402,
+      "velocidad_media_etapa": 110,
+      "alojamiento_etapa": 200,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 25,
+        "alimentacion_almuerzo": 20,
+        "alimentacion_comida": 50,
+        "alimentacion_merienda": 20,
+        "alimentacion_cena": 40,
+        "alimentacion_otros": 15
+      },
+      "aparcamiento_etapa": 15,
+      "peaje_etapa": 25,
+      "actividad_etapa": 20,
+      "transporte_etapa": 0,
+      "extra_etapa": 10
+    },
+    {
+      "fecha": "27/05/2025",
+      "origen_etapa": "NIMES",
+      "destino_etapa": "TARRAGONA",
+      "kms_etapa": 484,
+      "velocidad_media_etapa": 110,
+      "alojamiento_etapa": 45,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 22,
+        "alimentacion_almuerzo": 20,
+        "alimentacion_comida": 50,
+        "alimentacion_merienda": 15,
+        "alimentacion_cena": 45,
+        "alimentacion_otros": 10
+      },
+      "aparcamiento_etapa": 12,
+      "peaje_etapa": 15,
+      "actividad_etapa": 50,
+      "transporte_etapa": 0,
+      "extra_etapa": 20
+    },
+    {
+      "fecha": "28/05/2025",
+      "origen_etapa": "TARRAGONA",
+      "destino_etapa": "MURCIA",
+      "kms_etapa": 485,
+      "velocidad_media_etapa": 110,
+      "alojamiento_etapa": 0,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 10,
+        "alimentacion_almuerzo": 15,
+        "alimentacion_comida": 30,
+        "alimentacion_merienda": 15,
+        "alimentacion_cena": 0,
+        "alimentacion_otros": 15
+      },
+      "aparcamiento_etapa": 0,
+      "peaje_etapa": 0,
+      "actividad_etapa": 0,
+      "transporte_etapa": 0,
+      "extra_etapa": 0
+    }
+  ],
+  "otros_gastos": {
+    "gastos_compras": 120,
+    "gastos_acampada": 40,
+    "otras_tasas": {
+      "tasas_visados": 34,
+      "tasas_pases": 41,
+      "tasas_otros": 15
+    },
+    "gastos_seguros": {
+      "seguro_moto": 120,
+      "seguro_viaje": 65,
+      "seguro_salud": 50,
+      "seguro_otros": 35
+    }
+  },
+  "equipamiento_moteros": {
+    "casco": 0,
+    "guantes_invierno": 100,
+    "guantes_verano": 0,
+    "botas_invierno": 150,
+    "botas_verano": 0,
+    "chaqueta_invierno": 325,
+    "chaqueta_verano": 0,
+    "pantalon_invierno": 150,
+    "pantalon_verano": 0,
+    "ropa_termica": 35,
+    "traje_agua": 25,
+    "airbag": 350,
+    "protecciones_adicionales": 50,
+    "kit_primeros_auxilios": 20,
+    "intercomunicadores": 60,
+    "equipacion_otros": 30
+  },
+  "equipamiento_moto": {
+    "equipacion_navegador": 35,
+    "equipacion_equipaje": 40,
+    "equipacion_funda": 15,
+    "equipacion_extintor": 35,
+    "equipacion_otros": 40
+  },
+  "mantenimiento": {
+    "mto_pinchazos": 20,
+    "mto_herramientas": 35,
+    "mto_compresor": 45,
+    "mto_arrancador": 0,
+    "mto_rev_previa": 150,
+    "mto_talleres": 0,
+    "mto_neumaticos": 400,
+    "mto_frenos": 50,
+    "mto_transmision": 10,
+    "mto_otros": 20,
+    "mto_rev_post": 50
+  }
+}

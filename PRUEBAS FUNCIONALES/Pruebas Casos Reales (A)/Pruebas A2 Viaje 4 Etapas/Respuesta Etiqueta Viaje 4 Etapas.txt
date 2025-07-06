@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Viaje prueba 4 Etapas",
+    "destino_principal": "Sierra Nevada",
+    "kilometros_totales": 897,
+    "numero_etapas": 4,
+    "presupuesto_total": 1820.81,
+    "presupuesto_persona": 1820.81,
+    "pasajero": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Prueba B1 Todo informado",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 4125.22,
+    "presupuesto_persona": 2062.61,
+    "pasajero": true
+  }
+}

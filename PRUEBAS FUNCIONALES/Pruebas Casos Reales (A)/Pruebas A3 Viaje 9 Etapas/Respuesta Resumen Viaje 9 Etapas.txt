@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Viaje prueba 9 Etapas",
+      "destino_principal": "Stelvio",
+      "kilometros_totales": 3091,
+      "kilometros_media_etapa": 343.44,
+      "numero_etapas": 9,
+      "pasajero": true,
+      "fecha_inicio": "20/05/2025",
+      "fecha_fin": "28/05/2025",
+      "precio_combustible": 1.6,
+      "consumo_medio_moto": 5.7,
+      "litros_combustible": 176.19,
+      "velocidad_media_total": 84,
+      "tiempo_total_desplazamiento": "36:07",
+      "tiempo_desplazamiento_dia": "04:00"
+    },
+    "resumen_gastos": {
+      "combustible": 281.9,
+      "alojamiento": 1695,
+      "alimentacion": 1567,
+      "aparcamiento": 129,
+      "peaje": 64,
+      "actividades": 430,
+      "transporte": 550,
+      "extra": 215,
+      "compras": 120,
+      "acampada": 40,
+      "tasas": 90,
+      "seguros": 270,
+      "equipamiento_moteros": 1295,
+      "equipamiento_moto": 165,
+      "mantenimiento": 780,
+      "total_general": 7691.9,
+      "presupuesto_persona": 3845.95
+    }
+  }
+}

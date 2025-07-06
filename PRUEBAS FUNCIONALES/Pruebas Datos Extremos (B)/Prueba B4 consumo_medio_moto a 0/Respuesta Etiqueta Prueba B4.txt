@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "nombre_viaje": "Prueba B4 consumo_medio_moto a 0",
+    "destino_principal": "Velefique",
+    "kilometros_totales": 248,
+    "numero_etapas": 1,
+    "presupuesto_total": 4106,
+    "presupuesto_persona": 2053,
+    "pasajero": true
+  }
+}

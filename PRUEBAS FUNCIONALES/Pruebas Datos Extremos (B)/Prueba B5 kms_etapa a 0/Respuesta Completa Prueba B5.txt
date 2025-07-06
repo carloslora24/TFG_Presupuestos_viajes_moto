@@ -1,0 +1,118 @@
+{
+  "status": "success",
+  "data": {
+    "informacion_general": {
+      "nombre_viaje": "Prueba B5 kms_etapa a 0",
+      "destino_principal": "Velefique",
+      "kilometros_totales": 0,
+      "kilometros_media_etapa": 0,
+      "numero_etapas": 1,
+      "fecha_inicio": "19/05/2025",
+      "fecha_fin": "19/05/2025",
+      "pasajero": true,
+      "precio_combustible": 1.55,
+      "consumo_medio_moto": 5,
+      "litros_combustible": 0,
+      "total_combustible": 0,
+      "velocidad_media_total": 70,
+      "tiempo_total_desplazamiento": "00:00",
+      "tiempo_desplazamiento_dia": "00:00"
+    },
+    "etapas": [
+      {
+        "informacion_etapa": {
+          "numero_etapa": 1,
+          "origen": "Murcia",
+          "destino": "Velefique",
+          "kilometros": 0,
+          "fecha": "19/05/2025",
+          "velocidad_media": 70,
+          "tiempo_desplazamiento_etapa": "00:00"
+        },
+        "gastos_etapa": {
+          "presupuesto_etapa": 181,
+          "combustible_etapa": 0,
+          "litros_etapa": 0,
+          "alojamiento": 75,
+          "total_alimentacion": 61,
+          "alimentacion": {
+            "alimentacion_desayuno": 4,
+            "alimentacion_almuerzo": 5,
+            "alimentacion_comida": 20,
+            "alimentacion_merienda": 7,
+            "alimentacion_cena": 20,
+            "alimentacion_otros": 5
+          },
+          "aparcamiento": 5,
+          "peaje": 10,
+          "actividades": 10,
+          "transporte": 10,
+          "extra": 10
+        }
+      }
+    ],
+    "otros_gastos": {
+      "total_otros_gastos": 105,
+      "compras": 25,
+      "acampada": 10,
+      "tasas": {
+        "tasas_visados": 10,
+        "tasas_pases": 10,
+        "tasas_otros": 10
+      },
+      "seguros": {
+        "seguro_moto": 10,
+        "seguro_viaje": 10,
+        "seguro_salud": 10,
+        "seguro_otros": 10
+      }
+    },
+    "equipamiento": {
+      "moteros": {
+        "total_equipamiento_moteros": 2730,
+        "casco": 300,
+        "guantes_invierno": 130,
+        "guantes_verano": 50,
+        "botas_invierno": 150,
+        "botas_verano": 65,
+        "chaqueta_invierno": 325,
+        "chaqueta_verano": 225,
+        "pantalon_invierno": 190,
+        "pantalon_verano": 150,
+        "ropa_termica": 70,
+        "traje_agua": 40,
+        "airbag": 650,
+        "protecciones_adicionales": 250,
+        "kit_primeros_auxilios": 35,
+        "intercomunicadores": 90,
+        "equipacion_otros": 10
+      },
+      "moto": {
+        "total_equipamiento_moto": 365,
+        "equipacion_navegador": 250,
+        "equipacion_equipaje": 50,
+        "equipacion_funda": 20,
+        "equipacion_extintor": 35,
+        "equipacion_otros": 10
+      }
+    },
+    "mantenimiento": {
+      "total_mantenimiento": 725,
+      "mto_pinchazos": 20,
+      "mto_herramientas": 20,
+      "mto_compresor": 50,
+      "mto_arrancador": 35,
+      "mto_rev_previa": 20,
+      "mto_talleres": 50,
+      "mto_neumaticos": 350,
+      "mto_frenos": 60,
+      "mto_transmision": 60,
+      "mto_otros": 10,
+      "mto_rev_post": 50
+    },
+    "totales": {
+      "total_general": 4106,
+      "presupuesto_persona": 2053
+    }
+  }
+}

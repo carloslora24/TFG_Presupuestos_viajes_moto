@@ -1,0 +1,85 @@
+{
+    "datos_viaje": {
+        "nombre_viaje": "Ruta por los Pirineos",
+        "destino_principal": "Andorra",
+        "pasajero": "Sí",
+        "precio_combustible": 1.85,
+        "consumo_medio_moto": 5.2
+    },
+    "etapas": [
+        {
+            "fecha": "01/07/2024",
+            "origen_etapa": "Barcelona",
+            "destino_etapa": "La Seu d'Urgell",
+            "kms_etapa": 150,
+            "velocidad_media_etapa": 85,
+            "alojamiento_etapa": 80.00,
+            "alimentacion_etapa": {
+                "alimentacion_desayuno": 10.00,
+                "alimentacion_almuerzo": 15.00,
+                "alimentacion_comida": 20.00,
+                "alimentacion_merienda": 8.00,
+                "alimentacion_cena": 25.00,
+                "alimentacion_otros": 5.00
+            },
+            "aparcamiento_etapa": 8.00,
+            "peaje_etapa": 12.50,
+            "actividad_etapa": 35.00,
+            "transporte_etapa": 0.00,
+            "extra_etapa": 15.00
+        }
+    ],
+    "otros_gastos": {
+        "gastos_compras": 200.00,
+        "gastos_acampada": 0.00,
+        "otras_tasas": {
+            "tasas_visados": 0.00,
+            "tasas_pases": 0.00,
+            "tasas_otros": 0.00
+        },
+        "gastos_seguros": {
+            "seguro_moto": 150.00,
+            "seguro_viaje": 100.00,
+            "seguro_salud": 0.00,
+            "seguro_otros": 0.00
+        }
+    },
+    "equipamiento_moteros": {
+        "casco": 300.00,
+        "guantes_invierno": 100.00,
+        "guantes_verano": 80.00,
+        "botas_invierno": 200.00,
+        "botas_verano": 180.00,
+        "chaqueta_invierno": 350.00,
+        "chaqueta_verano": 300.00,
+        "pantalon_invierno": 250.00,
+        "pantalon_verano": 220.00,
+        "ropa_termica": 150.00,
+        "traje_agua": 120.00,
+        "airbag": 450.00,
+        "protecciones_adicionales": 200.00,
+        "kit_primeros_auxilios": 60.00,
+        "intercomunicadores": 250.00,
+        "equipacion_otros": 150.00
+    },
+    "equipamiento_moto": {
+        "equipacion_navegador": 350.00,
+        "equipacion_equipaje": 450.00,
+        "equipacion_funda": 180.00,
+        "equipacion_extintor": 60.00,
+        "equipacion_otros": 120.00
+    },
+    "mantenimiento": {
+        "mto_pinchazos": 60.00,
+        "mto_herramientas": 120.00,
+        "mto_compresor": 100.00,
+        "mto_arrancador": 150.00,
+        "mto_rev_previa": 180.00,
+        "mto_talleres": 250.00,
+        "mto_neumaticos": 350.00,
+        "mto_frenos": 180.00,
+        "mto_transmision": 220.00,
+        "mto_otros": 120.00,
+        "mto_rev_post": 180.00
+    }
+} 

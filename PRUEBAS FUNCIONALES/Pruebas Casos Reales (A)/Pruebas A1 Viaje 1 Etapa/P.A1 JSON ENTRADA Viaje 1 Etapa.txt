@@ -1,0 +1,85 @@
+{
+  "datos_viaje": {
+    "nombre_viaje": "Viaje prueba 1 etapa",
+    "destino_principal": "Velefique",
+    "pasajero": false,
+    "precio_combustible": 1.55,
+    "consumo_medio_moto": 5
+  },
+  "etapas": [
+    {
+      "fecha": "19/05/2025",
+      "origen_etapa": "Murcia",
+      "destino_etapa": "Velefique",
+      "kms_etapa": 248,
+      "velocidad_media_etapa": 70,
+      "alojamiento_etapa": 0,
+      "alimentacion_etapa": {
+        "alimentacion_desayuno": 0,
+        "alimentacion_almuerzo": 10,
+        "alimentacion_comida": 20,
+        "alimentacion_merienda": 7,
+        "alimentacion_cena": 20,
+        "alimentacion_otros": 5
+      },
+      "aparcamiento_etapa": 5,
+      "peaje_etapa": 0,
+      "actividad_etapa": 0,
+      "transporte_etapa": 0,
+      "extra_etapa": 0
+    }
+  ],
+  "otros_gastos": {
+    "gastos_compras": 25,
+    "gastos_acampada": 0,
+    "otras_tasas": {
+      "tasas_visados": 0,
+      "tasas_pases": 0,
+      "tasas_otros": 0
+    },
+    "gastos_seguros": {
+      "seguro_moto": 0,
+      "seguro_viaje": 0,
+      "seguro_salud": 0,
+      "seguro_otros": 0
+    }
+  },
+  "equipamiento_moteros": {
+    "casco": 0,
+    "guantes_invierno": 0,
+    "guantes_verano": 0,
+    "botas_invierno": 0,
+    "botas_verano": 0,
+    "chaqueta_invierno": 0,
+    "chaqueta_verano": 0,
+    "pantalon_invierno": 0,
+    "pantalon_verano": 0,
+    "ropa_termica": 0,
+    "traje_agua": 0,
+    "airbag": 0,
+    "protecciones_adicionales": 0,
+    "kit_primeros_auxilios": 30,
+    "intercomunicadores": 0,
+    "equipacion_otros": 0
+  },
+  "equipamiento_moto": {
+    "equipacion_navegador": 0,
+    "equipacion_equipaje": 0,
+    "equipacion_funda": 0,
+    "equipacion_extintor": 35,
+    "equipacion_otros": 0
+  },
+  "mantenimiento": {
+    "mto_pinchazos": 0,
+    "mto_herramientas": 0,
+    "mto_compresor": 0,
+    "mto_arrancador": 0,
+    "mto_rev_previa": 20,
+    "mto_talleres": 0,
+    "mto_neumaticos": 0,
+    "mto_frenos": 0,
+    "mto_transmision": 0,
+    "mto_otros": 0,
+    "mto_rev_post": 0
+  }
+}
